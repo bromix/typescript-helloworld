@@ -1,0 +1,23 @@
+{
+  "name": "typescript-helloworld",
+  "version": "1.0.0",
+  "description": "This is an example project for the &lt;URL> article to set up Visual Studio code with TypeScript.",
+  "main": "out/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bromix/typescript-helloworld.git"
+  },
+  "author": "bromix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bromix/typescript-helloworld/issues"
+  },
+  "homepage": "https://github.com/bromix/typescript-helloworld#readme",
+  "devDependencies": {
+    "@types/node": "^14.6.4",
+    "typescript": "^4.0.2"
+  }
+}
