@@ -4,6 +4,7 @@
   "description": "This is an example project for the &lt;URL> article to set up Visual Studio code with TypeScript.",
   "main": "out/index.js",
   "scripts": {
+    "build": "npx tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
