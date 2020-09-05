@@ -1,2 +1,2 @@
 # typescript-helloworld
-This is an example project for the &lt;URL> article to set up Visual Studio code with TypeScript.
+This is an example project for the [Simple setup for your TypeScript project](https://medium.com/@bromix/simple-setup-for-your-typescript-project-d96f66113b41) article on [medium.com](https://medium.com)
