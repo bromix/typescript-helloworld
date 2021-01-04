@@ -6,7 +6,7 @@ This is an example project for the [Simple setup for your TypeScript project](ht
 npm install
 ```
 
-### Compiles to typescript
+### Compile to typescript
 ```
 npm run build
 ```
